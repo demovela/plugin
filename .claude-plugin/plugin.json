@@ -1,0 +1,24 @@
+{
+  "name": "demovela",
+  "version": "1.0.2",
+  "description": "Prepare product demo video briefs and review your existing Demovela video library, templates and render status. Saves drafts for review without recording, rendering or spending credits.",
+  "author": {
+    "name": "Demovela",
+    "url": "https://demovela.com"
+  },
+  "homepage": "https://demovela.com",
+  "repository": "https://github.com/demovela/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "demovela",
+    "product-demo",
+    "video-workflow",
+    "video-brief",
+    "saas-marketing"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://demovela.com/privacy/"
+}

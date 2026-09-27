@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "demovela": {
+      "type": "http",
+      "url": "https://mcp.demovela.com/mcp"
+    }
+  }
+}
